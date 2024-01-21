@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **laravel, react , mysql**
 
-- 📫 How to reach me **zammad658@gmail.com**
+- 📫 How to reach me **ammadhimalyan228@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ammad-zafar-803981211/](https://www.linkedin.com/in/ammad-zafar-803981211/)
 
